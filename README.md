@@ -20,10 +20,9 @@
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Logo Redux"/>
   </div>
   
-  
+  ![Snake animation](https://github.com/DebCorrea/DebCorea/blob/output/github-contribution-grid-snake.svg)
   
 <!--
-![Snake animation](https://github.com/DebCorrea/DebCorea/blob/output/github-contribution-grid-snake.svg)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebCorrea&layout=compact&theme=dracula" />
 **DebCorrea/DebCorrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
